@@ -1,0 +1,19 @@
+.button {
+    text-align: center;
+   
+    
+  }
+
+  .button :hover{
+    background-color: var(--primary-color);
+    color: #fff;
+  }
+
+  .contact-form{
+    text-align: center;
+  }
+
+  .center-form {
+    margin: 0 auto;
+    max-width: 600px; /* You can adjust the max-width as needed */
+  }
